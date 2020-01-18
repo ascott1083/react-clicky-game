@@ -1,7 +1,6 @@
 import React from "react";
 import "./Header.css";
 
-// create a header with a Bootstrap navbar and jumbotron
 const Header = props => (
   
   <div className="main-container">
