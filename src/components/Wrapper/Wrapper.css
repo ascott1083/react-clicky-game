@@ -1,7 +1,7 @@
 .wrapper {
   margin-top:10px;
   margin-bottom: 20px; 
-  background: grey);
+  background: grey;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
