@@ -1,7 +1,7 @@
 # clicky-game
 
 ### Demo:
-https://drive.google.com/file/d/1KJYV21BBc84k9HoVYwdRpOIWW2OsCiTd/view
+https://drive.google.com/file/d/1U6JWyu0W-woRTwYQZnVgI31ESM1b_HoN/view
 
 This is a memory game built with React and has components for the header, card, page wrapper, and footer. 
 
